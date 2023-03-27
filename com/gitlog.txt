@@ -1,0 +1,4 @@
+PS D:\Documents\GitHub\forum> git log --oneline --graph
+* 06e9313 (HEAD -> main) create dummy forum
+* f1f868d add report
+* b750bb3 (origin/main) initial commit
