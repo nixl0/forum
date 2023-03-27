@@ -43,7 +43,7 @@
     body
     {
         padding: 0;
-        background: #99c8f7;
+        background: #98fb93;
     }
 
     textarea
